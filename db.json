@@ -2,7 +2,17 @@
     "categories": [
         {
             "id": 1,
-            "title": "hello",
+            "title": "cat01",
+            "affirmations": [
+                {
+                    "id": 1,
+                    "value": "value1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "cat02",
             "affirmations": [
                 {
                     "id": 1,
