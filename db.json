@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "hello",
+      "affirmations": [
+        {
+         "id": 1,
+        "value": "value1"
+        }
+      ]
+    }
+  ]
+}
